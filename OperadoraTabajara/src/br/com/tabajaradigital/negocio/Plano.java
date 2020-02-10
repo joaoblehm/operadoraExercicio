@@ -4,7 +4,7 @@ package br.com.tabajaradigital.negocio;
  *
  * @author ronaldo
  */
-public abstract class Plano{
+public class Plano{
 
     private int codigoPlano;
     private String descricaoPlano;    
